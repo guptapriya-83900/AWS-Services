@@ -5,7 +5,7 @@ This repository provides an overview and practical guides for key AWS services, 
 - **VPC (Virtual Private Cloud)**: Customizable cloud network infrastructure.
 
 ## Table of Contents
-- [AWS Lambda](AWS-Lambda.pdf](https://github.com/guptapriya-83900/AWS-Services/blob/main/AWS%20API%20Gateway.pdf)
+- [AWS Lambda](https://github.com/guptapriya-83900/AWS-Services/blob/main/AWS%20API%20Gateway.pdf)
 - [AWS API Gateway](AWS-API-Gateway.pdf)
 - [AWS RDS](AWS-RDS.pdf)
 - [AWS VPC](VPC-Virtual-Private-Cloud.pdf)
